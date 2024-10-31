@@ -62,7 +62,7 @@
 #### 10.景点信息
 <img src="./images/10.jpg" width="600" height="300" /><br>
 #### 11.新闻资讯
-<img src="./images/10.jpg" width="600" height="300" /><br>
+<img src="./images/11.jpg" width="600" height="300" /><br>
 #### 12.用户添加留言
-<img src="./images/10.jpg" width="600" height="300" /><br>
+<img src="./images/12.jpg" width="600" height="300" /><br>
 
