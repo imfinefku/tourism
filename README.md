@@ -8,7 +8,7 @@
 普通用户可以查看所有的景点推荐信息、新闻资讯信息以及旅游路线信息，还可以付费预定旅游路线跟团旅游。<br>
 前端使用Vue框架，后端使用SpringBoot框架，数据库使用的是Mysql。<br>
 本系统功能完善，涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为设计项目或开发学习。<br>
-视频介绍：<a href="" target="_blank">点击查看B站视频介绍</a>
+视频介绍：<a href="https://www.bilibili.com/video/BV1FySgYtET2/?spm_id_from=333.999.0.0" target="_blank">点击查看B站视频介绍</a>
 
 ## 功能介绍
 
